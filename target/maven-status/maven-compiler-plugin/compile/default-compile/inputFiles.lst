@@ -1,0 +1,9 @@
+/var/lib/jenkins/workspace/spring-login/src/main/java/com/gpch/login/model/User.java
+/var/lib/jenkins/workspace/spring-login/src/main/java/com/gpch/login/LoginApplication.java
+/var/lib/jenkins/workspace/spring-login/src/main/java/com/gpch/login/service/UserService.java
+/var/lib/jenkins/workspace/spring-login/src/main/java/com/gpch/login/model/Role.java
+/var/lib/jenkins/workspace/spring-login/src/main/java/com/gpch/login/configuration/SecurityConfiguration.java
+/var/lib/jenkins/workspace/spring-login/src/main/java/com/gpch/login/controller/LoginController.java
+/var/lib/jenkins/workspace/spring-login/src/main/java/com/gpch/login/repository/RoleRepository.java
+/var/lib/jenkins/workspace/spring-login/src/main/java/com/gpch/login/repository/UserRepository.java
+/var/lib/jenkins/workspace/spring-login/src/main/java/com/gpch/login/configuration/WebMvcConfig.java
