@@ -28,7 +28,7 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://ec2-52-207-239-217.compute-1.amazonaws.com:8081/repository/maven-snapshots/</url>
+      <url>http://ec2-52-207-239-217.compute-1.amazonaws.com:8081/repository/maven-snapshot/</url>
     </snapshotRepository>
     <repository>
       <id>nexus-releases</id>
