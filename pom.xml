@@ -17,23 +17,16 @@
         <version>2.0.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-	
-	<repositories>
+<distributionManagement>
     <repository>
-      <id>maven-group</id>
-      <url>http://ec2-52-207-239-217.compute-1.amazonaws.com:8081/repository/maven-group/</url>
-    </repository>
-  </repositories>
-	
-	<distributionManagement>
+      <id>deployment</id>
+      <name>Internal Releases</name>
+      <url>http://ec2-52-207-239-217.compute-1.amazonaws.com:8081/repository/SAMPLE_REL/</url>
+    </repository>	
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://ec2-52-207-239-217.compute-1.amazonaws.com:8081/repository/maven-snapshot/</url>
+      <url>http://ec2-52-207-239-217.compute-1.amazonaws.com:8081/repository/SAMPLE_SNAP/</url>
     </snapshotRepository>
-    <repository>
-      <id>nexus-releases</id>
-      <url>http://ec2-52-207-239-217.compute-1.amazonaws.com:8081/repository/maven-releases/</url>
-    </repository>
   </distributionManagement>
 
     <properties>
