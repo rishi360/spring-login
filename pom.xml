@@ -20,7 +20,6 @@
 <distributionManagement>
     <repository>
       <id>deployment</id>
-      <name>Internal Releases</name>
       <url>http://ec2-52-207-239-217.compute-1.amazonaws.com:8081/repository/SAMPLE_REL/</url>
     </repository>	
     <snapshotRepository>
